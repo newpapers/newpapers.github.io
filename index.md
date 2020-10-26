@@ -17,6 +17,8 @@
 
 [**Aditya Kusupati**](https://homes.cs.washington.edu/~kusupati/) is PhD student at University of Washington jointly advised by Ali Farhadi and Sham Kakade. His research interests lie in the intersection of machine learning, computer vision and robotics.
 
+[**Anna Rogers**](https://annargrs.github.io/) is a post-doctoral associate at the University of Copenhagen, working with research groups in the Center for Social Data Science and Machine Learning. Her main research area is Natural Language Processing, she also works on interpretability and evaluation of deep learning models, as well as computational social science.
+
 [**Breandan Considine**](https://breandan.net/) is a PhD student at McGill University, advised by Jin Guo. His research studies the relationship between software and machine learning, to reason about the behavior of real-world programs and use those insights to build more intelligent programming tools for developers.
 
 # Steering Committee
