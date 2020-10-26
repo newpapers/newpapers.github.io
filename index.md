@@ -13,7 +13,7 @@
 
 [**Amy Tabb**](https://amytabb.com/) is a researcher working at the intersection of computer vision, robotics, agricultural automation, and plant phenotyping. She develops algorithms and systems to perceive aspects of plants for agricultural automation and plant phenotyping using computer vision and robotics.
 
-[**Khimya Khetarpal**](https://kkhetarpal.wordpress.com/) is a PhD student at the McGill Reasoning and Learning Lab, advised by Doina Precup, whose research spans reinforcement learning, computer vision, and robotics. She is working towards building systems that are able to perceive the world similar to human perception allowing them to reinforce learning and evolve with time just like humans. 
+[**Khimya Khetarpal**](https://kkhetarpal.github.io/)is a Ph.D. candidate with Doina Precup in the Reasoning and Learning Lab at McGill University and Mila, Montreal. Her research focuses on learning generalized temporal abstractions across both action and perception grounded in theoretical foundations of reinforcement learning.
 
 [**Aditya Kusupati**](https://homes.cs.washington.edu/~kusupati/) is PhD student at University of Washington jointly advised by Ali Farhadi and Sham Kakade. His research interests lie in the intersection of machine learning, computer vision and robotics.
 
