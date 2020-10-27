@@ -1,4 +1,4 @@
-# Summary
+# Introduction
 
 > “An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.”
 > - Buckheit and Donoho (1995)
@@ -12,6 +12,25 @@ How should we evaluate scientific papers to create a more sustainable platform f
 * Interpretability and visualization - How do we interpret complex information in a visual setting?
 
 Please join us for an exciting discussion on how to redesign the scientific paper for the next decade of machine learning research!
+
+# Call for Papers
+
+We invite submissions describing novel formats for publishing scientific research, with an emphasis on presentation, accessibility, and reproducibility. Each submission must clearly outline its design goals, and importantly, compare them with current publishing formats (e.g., LaTeX + PDF workflows). Submissions include, but are not limited to:
+
+* Position papers that summarize existing tools for scientific dissemination and discuss viable alternatives.
+* Analysis papers that investigate or quantitatively compare current tools for scientific dissemination and presentation.
+* Exhibits that present a novel format for scientific research dissemination. (Such exhibits are the primary focus of this workshop, and this will be highlighted in our call for papers)
+
+Submissions are solicited in PDF format for position and analysis papers. For exhibits, there is no restriction on the format (creative new formats welcome, as long as they are cross-platform compatible on most modern web browsers). By example, we suggest the following areas of help structure submissions, however other proposals will also be considered:
+
+* **Presentation**: How does the proposed new format improve clarity, content delivery, and interactivity?
+* **Accessibility**: How accessible is the proposed format? Think cross-platform, cross-user, and longevity.
+* **Review cycle**: In what manner is the proposed format best reviewed? How would version control look like, for such a format? What technical skills does this expect of a reviewer?
+* **Bibliometrics**: Are there more meaningful bibliometrics to measure the impact of articles in the proposed format? If so, how would they integrate into the existing rubric of h-indices, impact factors, and citation counts?
+* **Interoperability**: Can these formats be converted back or from others, such as PDFs, blog posts, etc?
+* **Durability**: Will these new formats remain accessible in case of server failure or bitrot? How can we ensure that submissions remain accessible for many decades to come?
+
+Adversarial perspectives welcome! Submissions arguing in favor of current methods (such as LaTeX + PDF workflows) will be equally well-received.
 
 # Organizing Committee
 
