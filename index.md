@@ -36,24 +36,20 @@ Adversarial perspectives welcome! Submissions arguing in favor of current method
 
 # Organizing Committee
 
-[**Krishna Murthy**](https://krrish94.github.io/) is a PhD student at Mila and the Robotics and Embodied AI Lab, advised by Liam Paull. His research strives to develop embodied agents that perceive, reason, and act intelligently.
-
-[**Bhairav Mehta**](https://bhairavmehta95.github.io/) is a PhD student at MIT working with Max Tegmark, woring on optimization and multi-task learning of deep neural networks, especially in sequential learning, reinforcement learning, and non-iid data settings. 
-
-[**Tegan Maharaj**](http://www.teganmaharaj.com/) is a PhD student at Mila, advised by Chris Pal. Her recent research aims to bring together the fields of deep learning and theoretical ecology with active projects in ecosystem modeling and deep networks, including work collecting datasets, in multi-agent RL, counterfactual inference, and meta-learning. 
-
-[**Amy Tabb**](https://amytabb.com/) is a researcher working at the intersection of computer vision, robotics, agricultural automation, and plant phenotyping. She develops algorithms and systems to perceive aspects of plants for agricultural automation and plant phenotyping using computer vision and robotics.
-
-[**Khimya Khetarpal**](https://kkhetarpal.github.io/) is a Ph.D. candidate with Doina Precup in the Reasoning and Learning Lab at McGill University and Mila, Montreal. Her research focuses on learning generalized temporal abstractions across both action and perception grounded in theoretical foundations of reinforcement learning.
-
-[**Aditya Kusupati**](https://homes.cs.washington.edu/~kusupati/) is PhD student at University of Washington jointly advised by Ali Farhadi and Sham Kakade. His research interests lie in the intersection of machine learning, computer vision and robotics.
-
-[**Anna Rogers**](https://annargrs.github.io/) is a post-doctoral associate at the University of Copenhagen, working with research groups in the Center for Social Data Science and Machine Learning. Her main research area is Natural Language Processing, she also works on interpretability and evaluation of deep learning models, as well as computational social science.
-
-[**Breandan Considine**](https://breandan.net/) is a PhD student at McGill University, advised by Jin Guo. His research studies the relationship between software and machine learning, to reason about the behavior of real-world programs and use those insights to build more intelligent programming tools for developers.
+| Image | Biography |
+|-------|-----------|
+|<img width="200" src="https://krrish94.github.io/author/krishna-murthy-jatavallabhula/avatar_hu9d5312ed995d3db8f77694f5797ff60c_128319_270x270_fill_q90_lanczos_center.jpg"/>|[**Krishna Murthy**](https://krrish94.github.io/) is a PhD student at Mila and the Robotics and Embodied AI Lab, advised by Liam Paull. His research strives to develop embodied agents that perceive, reason, and act intelligently.|
+|<img width="200" src="https://krrish94.github.io/author/krishna-murthy-jatavallabhula/avatar_hu9d5312ed995d3db8f77694f5797ff60c_128319_270x270_fill_q90_lanczos_center.jpg"/>|[**Bhairav Mehta**](https://bhairavmehta95.github.io/) is a PhD student at MIT working with Max Tegmark, woring on optimization and multi-task learning of deep neural networks, especially in sequential learning, reinforcement learning, and non-iid data settings.|
+|<img width="200" src="https://www.climatechange.ai/images/people/teganmaharaj_400x400.jpg"/>|[**Tegan Maharaj**](http://www.teganmaharaj.com/) is a PhD student at Mila, advised by Chris Pal. Her recent research aims to bring together the fields of deep learning and theoretical ecology with active projects in ecosystem modeling and deep networks, including work collecting datasets, in multi-agent RL, counterfactual inference, and meta-learning.|
+|<img width="200" src="https://pbs.twimg.com/profile_images/1172512346381705216/DAzE2VLZ_400x400.jpg"/>|[**Amy Tabb**](https://amytabb.com/) is a researcher working at the intersection of computer vision, robotics, agricultural automation, and plant phenotyping. She develops algorithms and systems to perceive aspects of plants for agricultural automation and plant phenotyping using computer vision and robotics.|
+|<img width="200" src="https://avatars1.githubusercontent.com/u/7235682?s=400&u=37d00297c0642a0ba4fe3aa9f28dc65788136c2d&v=4"/>|[**Khimya Khetarpal**](https://kkhetarpal.github.io/) is a Ph.D. candidate with Doina Precup in the Reasoning and Learning Lab at McGill University and Mila, Montreal. Her research focuses on learning generalized temporal abstractions across both action and perception grounded in theoretical foundations of reinforcement learning.|
+|<img width="200" src="https://homes.cs.washington.edu/~kusupati/images/AdityaKusupati.jpg"/>|[**Aditya Kusupati**](https://homes.cs.washington.edu/~kusupati/) is PhD student at University of Washington jointly advised by Ali Farhadi and Sham Kakade. His research interests lie in the intersection of machine learning, computer vision and robotics.|
+|<img width="200" src="https://annargrs.github.io/assets/images/aro.jpg"/>|[**Anna Rogers**](https://annargrs.github.io/) is a post-doctoral associate at the University of Copenhagen, working with research groups in the Center for Social Data Science and Machine Learning. Her main research area is Natural Language Processing, she also works on interpretability and evaluation of deep learning models, as well as computational social science.|
+|<img width="200" src="https://pbs.twimg.com/profile_images/896893878183264256/8Wd-aur2_400x400.jpg"/>|[**Breandan Considine**](https://breandan.net/) is a PhD student at McGill University, advised by Jin Guo. His research studies the relationship between software and machine learning, to reason about the behavior of real-world programs and use those insights to build more intelligent programming tools for developers.|
 
 # Steering Committee
 
-[**Devi Parikh**](https://www.cc.gatech.edu/~parikh/) is an Associate Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research. Her research interests are in computer vision, natural language processing, embodied AI, human-AI collaboration, and AI for creativity.
-
-[**Yoshua Bengio**](https://yoshuabengio.org/) is a professor in the Department of Computer Science and Operational Research at the Université de Montréal, Co-Director of CIFAR’s Learning in Machines & Brains Program Co-Director, founder and scientific director of Mila, the Quebec Artificial Intelligence Institute, the world’s largest university-based research group in deep learning.
+| Image | Biography |
+|-------|-----------|
+|<img width="200" src="https://www.cc.gatech.edu/~parikh/static/img/devi/deviparikh.jpg"/>|[**Devi Parikh**](https://www.cc.gatech.edu/~parikh/) is an Associate Professor in the School of Interactive Computing at Georgia Tech, and a Research Scientist at Facebook AI Research. Her research interests are in computer vision, natural language processing, embodied AI, human-AI collaboration, and AI for creativity.|
+|<img width="200" src="https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705-509x622.jpg"/>|[**Yoshua Bengio**](https://yoshuabengio.org/) is a professor in the Department of Computer Science and Operational Research at the Université de Montréal, Co-Director of CIFAR’s Learning in Machines & Brains Program Co-Director, founder and scientific director of Mila, the Quebec Artificial Intelligence Institute, the world’s largest university-based research group in deep learning.|
