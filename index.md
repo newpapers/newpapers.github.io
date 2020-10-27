@@ -3,6 +3,16 @@
 > “An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.”
 > - Buckheit and Donoho (1995)
 
+Over the last decade, the volume of conference and journal submissions in machine learning has broken records across the sciences. According to some estimates, submissions at machine learning conferences account for over 0.5% of all scientific papers published today. The current pandemic gives researchers a long-awaited opportunity to pause and reflect: what kind of legacy do we want to leave behind? Is it the number of papers we publish, or the number of citations we accumulate? Researchers across the field have raised important questions regarding the effectiveness of these metrics, the pace of machine learning research, and where the field is headed over the decade to come.
+
+How should we evaluate scientific papers to create a more sustainable platform for future contributors? Many proposals have emerged, from novelty and rigor, to reproducibility ([Pineau et al., 2020](https://arxiv.org/pdf/2003.12206.pdf)), explainability ([Olah and Cater, 2017](https://distill.pub/2017/research-debt/)) and accessibility. We believe that in an era of social isolation and remote work, the importance of clear communication is crucial, not only for demonstrating scientific progress but more broadly, for building human intuition and understanding. This requires taking a more wholistic view of the scientific paper, not just as a medium for communicating with a highly sophisticated audience, but as a tool for disseminating knowledge to the next generation of scientific researchers. In this workshop, we propose to discuss three high-level themes:
+
+* Accessibility and inclusivity - How do we design a inclusive publication format for ML research?
+* Explainability and pedagogy - How do we communicate ML research and theory more effectively?
+* Interpretability and visualization - How do we interpret complex information in a visual setting?
+
+Please join us for an exciting discussion on how to redesign the scientific paper for the next decade of machine learning research!
+
 # Organizing Committee
 
 [**Krishna Murthy**](https://krrish94.github.io/) is a PhD student at Mila and the Robotics and Embodied AI Lab, advised by Liam Paull. His research strives to develop embodied agents that perceive, reason, and act intelligently.
