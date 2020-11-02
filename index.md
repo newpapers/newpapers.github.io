@@ -4,8 +4,8 @@ layout: default
 
 # Introduction
 
-> “An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.”
-> - Buckheit and Donoho (1995)
+> "All communication must lead to change."
+> - Aristotle
 
 Over the last decade, the volume of conference submissions in machine learning has broken records across the sciences. According to some estimates, submissions at machine learning conferences account for over 0.5% of all scientific papers published today. While submissions are at an all-time high, there is growing concern in the ML community about where the field is headed. The current pandemic gives researchers a long-awaited opportunity to pause and reflect: what kind of legacy do we want to leave behind? Is it in the number of papers we publish, or the number of citations we accumulate? Or, is it in the clarity and transparency of scientific communication? We believe the answers to these questions will shape the next few years of ML research.
 
@@ -19,7 +19,7 @@ The research paper as originally envisioned, was a document printed and bound in
 
 Among the ML research community, there is a diversity of innovative content that does not reach traditional machine learning conferences. By showcasing work from ML researchers on the frontiers of digital publication, we hope to raise awareness for alternative writing styles and templates for publication. How can we improve understanding through scientific communication? How can we make the medium more inclusive and accessible for current and future contributors? These are some of the themes we hope to explore in our workshop. Please join us for an exciting discussion on redesigning the scientific paper for machine learning research!
 
-# Call for Papers
+# Call for Exhibits
 
 We invite submissions describing novel formats for publishing scientific research, with an emphasis on presentation, accessibility, and reproducibility. Each submission must clearly outline its design goals, and importantly, compare them with current publishing formats (e.g., LaTeX + PDF workflows). Submissions to this workshop are open-ended in general. For convenience, we present three broad classes of submissions to the workshop.
 
