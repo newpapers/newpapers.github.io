@@ -37,3 +37,5 @@ Exhibit and workflow submissions are solicited in any format that allows for rev
 * **Durability**: Will these new formats remain accessible in case of server failure or bitrot? How can we ensure that submissions remain accessible for many decades to come?
 * **Adversarial perspectives** welcome! Submissions arguing in favor of current methods (such as LaTeX + PDF workflows) will be equally well-received.
 
+Our submission portal is expected to open in **February 2021** and will be listed here thereafter.
+
