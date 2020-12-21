@@ -6,6 +6,8 @@ permalink: /organizers/
 
 # Organizing Committee
 
+The organizers may be reached at `rethinkingmlpapers <AT> <popular-email-service-from-google> <DOT> com`
+
 | Image | Biography |
 |-------|-----------|
 |<img width="400" src="https://krrish94.github.io/author/krishna-murthy-jatavallabhula/avatar_hu9d5312ed995d3db8f77694f5797ff60c_128319_270x270_fill_q90_lanczos_center.jpg" alt="Image of Krishna Murthy"/>|[**Krishna Murthy**](https://krrish94.github.io/) is a PhD student at Mila and the Robotics and Embodied AI Lab, advised by Liam Paull. His research strives to develop embodied agents that perceive, reason, and act intelligently.|
